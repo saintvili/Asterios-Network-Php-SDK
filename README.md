@@ -40,6 +40,9 @@ Asterios Network Php SDK - Инструмент взаимодействия с 
     $month 
     $year 
     $id
+    $getSettings_messagesCount
+    $market_itemId
+    $market_itemCount  
 
 
 For html output, you may need <?php echo $(method name)?>
