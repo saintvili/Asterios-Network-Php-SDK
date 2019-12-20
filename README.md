@@ -40,3 +40,10 @@ Asterios Network Php SDK - Инструмент взаимодействия с 
     $month 
     $year 
     $id
+
+
+For html output, you may need <?php echo $(method name)?>
+Example <?php echo $status ?> (displays status of the user )
+
+Для вывода в html может понадобится <?php echo $(название метода) ?>
+Пример <?php echo $status ?> (выводит статус пользователя )
