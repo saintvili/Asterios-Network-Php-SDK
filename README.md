@@ -52,3 +52,5 @@ Example < ?php echo $status ? > (displays status of the user )
 
 Для вывода в html может понадобится <?php echo $(название метода) ?>
 Пример < ?php echo $status ? > (выводит статус пользователя )
+
+![](https://asterios.ws/post/0KLRg9GCINGC0LjQv9CwINC60L7QvdGC0LXQvdGC/0KLQvtCf/asterios_ea5d358g5f.jpeg)
